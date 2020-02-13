@@ -14,10 +14,10 @@ This project is still a work in progress with work being done to increase the qu
 ## Photos
 
 ### 3D Scanned Rock
-![Image of Yaktocat](https://github.com/chrisjmollise/rock-visualization-project/blob/master/Photos/RockScan.png)
+![Image of Rocks](https://github.com/chrisjmollise/rock-visualization-project/blob/master/Photos/RockScan.png)
 
 ### Rocks with Realistic Textures
-![Image of Yaktocat](https://github.com/chrisjmollise/rock-visualization-project/blob/master/Photos/HighresScreenshot00002.png)
+![Image of Rocks](https://github.com/chrisjmollise/rock-visualization-project/blob/master/Photos/HighresScreenshot00002.png)
 
 ### Rocks with Mask
-![Image of Yaktocat](https://github.com/chrisjmollise/rock-visualization-project/blob/master/Photos/HighresScreenshot00003.png)
+![Image of Rocks](https://github.com/chrisjmollise/rock-visualization-project/blob/master/Photos/HighresScreenshot00003.png)
